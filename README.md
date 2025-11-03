@@ -2,7 +2,7 @@
 
 This project demonstrates a deep learning approach to **satellite image segmentation**, focusing on detecting and delineating building roofs from aerial imagery. Using a **U-Net** architecture implemented in **PyTorch**, the model learns to generate pixel-level segmentations from a labeled dataset of satellite images.
 
-### Data augementation
+### Data augmentation
 
 The project was initially created for a task with a very limited amount (below 30) of low-res (256 x 256 pixels) satellite images.
 
